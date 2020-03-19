@@ -1,0 +1,1 @@
+$int = read-host -message "enter a number" 
